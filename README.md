@@ -54,7 +54,13 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
 
 
+
+
+
 <img width="1919" height="1199" alt="exp-5_o" src="https://github.com/user-attachments/assets/c131cfc1-5922-4852-a419-7fd100a7e31b" />
+
+
+
 
 
 ## Results
